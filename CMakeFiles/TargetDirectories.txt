@@ -1,0 +1,3 @@
+/home/rajatmr/dixit/vpi/video_stabilization/github/CMakeFiles/video_stabilization.dir
+/home/rajatmr/dixit/vpi/video_stabilization/github/CMakeFiles/edit_cache.dir
+/home/rajatmr/dixit/vpi/video_stabilization/github/CMakeFiles/rebuild_cache.dir
